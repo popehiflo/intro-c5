@@ -1,3 +1,3 @@
 console.log('holi')
-console.log('como estás?') HOLA!
-DANIEL
+console.log('como estás?')
+console.log('bien y tú?')
